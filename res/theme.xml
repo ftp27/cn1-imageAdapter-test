@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="6" useXmlUI="false">
+    <image name="placeholder.png"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="Label.margin" value="0,0,0,0" />
+        <val key="Label.padding" value="0,0,0,0" />
+        <val key="margin" value="0,0,0,0" />
+        <val key="padding" value="0,0,0,0" />
+    </theme>
+</resource>
